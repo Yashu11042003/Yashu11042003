@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 🔗 Check out my portfolio: [Portfolio](https://your-portfolio-link.com)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-profile)
+
 
 ## Languages and Tools:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
